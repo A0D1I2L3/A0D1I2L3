@@ -1,4 +1,4 @@
-<h1 align="center">Hey there :) </h1>
+<h1 align="center">Hey there ;] </h1>
 <h3 align="center">I build web and app projects, live on Omarchy Linux, and love all things open-source.</h3>
 
 <br/>
