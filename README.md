@@ -10,11 +10,7 @@ I am always looking to learn and build cool things. If you're interested in coll
 </p>
 
 <div align="center">
-  <a href="https://leetcode.com/u/A0D1I2L3/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1c1c1c?logo=LeetCode&logoColor=f89f1b" />
-  </a>
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1c1c1c?logo=LeetCode&logoColor=f89f1b" href="https://leetcode.com/u/A0D1I2L3" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/A0D1I2L3">
-    <img alt="X" src="https://img.shields.io/badge/X-1c1c1c.svg?logo=X&logoColor=ffffff" />
-  </a>
+    <img alt="X" src="https://img.shields.io/badge/X-1c1c1c.svg?logo=X&logoColor=ffffff" href="https://x.com/A0D1I2L3" />
 </div>
