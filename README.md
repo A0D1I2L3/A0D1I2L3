@@ -10,15 +10,9 @@
 
 <br/>
 <div align="center">
-  <a href="https://leetcode.com/u/A0D1I2L3/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1c1c1c?logo=leetcode&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/A0D1I2L3">
-    <img src="https://custom-icon-badges.demolab.com/badge/X-1c1c1c?logo=x&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="X"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adil-h-666957290/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1c1c1c?logo=linkedin&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="LinkedIn"/>
-  </a>
+  <a href="https://leetcode.com/u/A0D1I2L3/"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1c1c1c?logo=leetcode&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="LeetCode"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/A0D1I2L3"><img src="https://custom-icon-badges.demolab.com/badge/X-1c1c1c?logo=x&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="X"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adil-h-666957290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1c1c1c?logo=linkedin&logoColor=2aa889&labelColor=1c1c1c&color=99d1ce" alt="LinkedIn"/></a>
 </div>
 
 
