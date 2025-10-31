@@ -14,8 +14,8 @@ I am always looking to learn and build cool things. If you're interested in coll
 
  
 
-<h3 align="center">My Other Profiles</h3>
 <p align="center">
   <a href="https://leetcode.com/u/A0D1I2L3/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/A0D1I2L3"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
