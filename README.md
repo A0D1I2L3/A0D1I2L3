@@ -5,13 +5,14 @@ Hi! I'm **Adil Haneef M K**, a Computer Science student at GEC Thrissur with a p
 I am always looking to learn and build cool things. If you're interested in collaborating or just want to connect, feel free to reach out!
 
 <p align="center">
-<a href="https://github.com/A0D1I2L3" style="text-decoration: none;">
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A0D1I2L3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" style="text-decoration: none;"/>
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&hide_progress=true&custom_title=My%20Top%20Languages" style="text-decoration: none;"/>
-</a>
+  <a href="https://github.com/A0D1I2L3">
+    <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A0D1I2L3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
+  </a>
+  <a href="https://github.com/A0D1I2L3">
+    <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&hide_progress=true&custom_title=My%20Top%20Languages"/>
+  </a>
 </p>
 
- 
 <p align="center">
   <a href="https://leetcode.com/u/A0D1I2L3/">
     <img src="https://img.shields.io/badge/LeetCode-1c1c1c?logo=LeetCode&logoColor=f89f1b" alt="LeetCode"/>
@@ -21,4 +22,3 @@ I am always looking to learn and build cool things. If you're interested in coll
     <img src="https://img.shields.io/badge/X-1c1c1c.svg?logo=X&logoColor=ffffff" alt="X"/>
   </a>
 </p>
-
