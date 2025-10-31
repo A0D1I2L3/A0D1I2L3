@@ -14,7 +14,6 @@
 
 
 
-<h4 align="center">Always learning — open to collaborations or just good tech conversations.</h4>
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/A0D1I2L3/">
