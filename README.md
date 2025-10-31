@@ -9,18 +9,18 @@
 </div>
 
 <br/>
-
 <div align="center">
   <a href="https://leetcode.com/u/A0D1I2L3/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-2aa889?logo=leetcode&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="LeetCode"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1c1c1c?logo=leetcode&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="LeetCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/A0D1I2L3">
-    <img src="https://custom-icon-badges.demolab.com/badge/X-2aa889?logo=x&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="X"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/X-1c1c1c?logo=x&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="X"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adil-h-666957290/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-2aa889?logo=linkedin&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1c1c1c?logo=linkedin-white&logoColor=ffffff&labelColor=1c1c1c&color=2aa889" alt="LinkedIn"/>
   </a>
 </div>
+
 
 
 
