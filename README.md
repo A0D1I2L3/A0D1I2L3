@@ -4,11 +4,6 @@ Hi! I'm **Adil Haneef M K**, a Computer Science student at GEC Thrissur with a p
 
 I am always looking to learn and build cool things. If you're interested in collaborating or just want to connect, feel free to reach out!
 
-🌐 **Portfolio:** [portfolio-adil-h.vercel.app](https://portfolio-adil-h.vercel.app/)
-
-### 💻 My Setup
-I use and code in [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
-
 ---
 
 ### Stats
@@ -18,3 +13,9 @@ I use and code in [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustr
  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&hide_progress=true&custom_title=My%20Top%20Languages" style="text-decoration: none;"/>
 </a>
 </p>
+
+--- 
+
+### Where I Hang Out
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/A0D1I2L3/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/A0D1I2L3)
