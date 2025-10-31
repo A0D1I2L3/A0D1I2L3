@@ -13,8 +13,9 @@
 <div align="center">
   <a href="https://leetcode.com/u/A0D1I2L3/"><img src="https://img.shields.io/badge/-LeetCode-1c1c1c?style=flat&logo=LeetCode&logoColor=f89f1b" alt="LeetCode"/></a>&nbsp;&nbsp;
   <a href="https://x.com/A0D1I2L3"><img src="https://img.shields.io/badge/-X-1c1c1c?style=flat&logo=X&logoColor=ffffff" alt="X"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adil-h-666957290/"><img src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=flat&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/adil-h-666957290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
 </div>
+
 
 
 
