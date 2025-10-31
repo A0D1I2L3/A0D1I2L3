@@ -16,6 +16,6 @@
   <a href="https://www.linkedin.com/in/adil-h-666957290/"><img src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=flat&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn"/></a>
 </div>
 
-<br/>
+
 
 <p align="center"><i>Jack of all trades, master of some</i></p>
