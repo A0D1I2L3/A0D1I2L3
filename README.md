@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="left">I build web and app projects, live on Omarchy Linux, and love all things open-source.</h3>
+<h3 align="center">I build web and app projects, live on Omarchy Linux, and love all things open-source.</h3>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">Always learning — open to collaborations or just good tech conversations.</h3>
+<h4 align="center">Always learning — open to collaborations or just good tech conversations.</h4>
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/A0D1I2L3/">
