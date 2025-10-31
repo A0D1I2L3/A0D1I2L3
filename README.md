@@ -30,6 +30,5 @@
  
 </p>
 
----
 
 <p align="center"><i>Jack of all trades, master of some</i></p>
