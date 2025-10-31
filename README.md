@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm Adil — a Computer Science student passionate about Web Dev & Cybersecurity</h3>
 
----
+
 
 ### ⚙️ GitHub Stats
 
@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+
 
 
 
