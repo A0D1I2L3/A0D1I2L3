@@ -9,8 +9,12 @@ I am always looking to learn and build cool things. If you're interested in coll
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&hide_progress=true&custom_title=My%20Top%20Languages"/>
 </p>
 
-<p align="center">
-  [![LeetCode](https://img.shields.io/badge/LeetCode-1c1c1c?logo=LeetCode&logoColor=f89f1b)](https://leetcode.com/u/A0D1I2L3/)
+<div align="center">
+  <a href="https://leetcode.com/u/A0D1I2L3/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1c1c1c?logo=LeetCode&logoColor=f89f1b" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  [![X](https://img.shields.io/badge/X-1c1c1c.svg?logo=X&logoColor=ffffff)](https://x.com/A0D1I2L3)
-</p>
+  <a href="https://x.com/A0D1I2L3">
+    <img alt="X" src="https://img.shields.io/badge/X-1c1c1c.svg?logo=X&logoColor=ffffff" />
+  </a>
+</div>
