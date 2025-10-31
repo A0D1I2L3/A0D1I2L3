@@ -4,8 +4,6 @@ Hi! I'm **Adil Haneef M K**, a Computer Science student at GEC Thrissur with a p
 
 I am always looking to learn and build cool things. If you're interested in collaborating or just want to connect, feel free to reach out!
 
----
-
 ### Stats
 <p align="center">
 <a href="https://github.com/A0D1I2L3" style="text-decoration: none;">
@@ -14,8 +12,10 @@ I am always looking to learn and build cool things. If you're interested in coll
 </a>
 </p>
 
---- 
+ 
 
-### Where I Hang Out
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/A0D1I2L3/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/A0D1I2L3)
+<h3 align="center">My Other Profiles</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/A0D1I2L3/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
+  <a href="https://x.com/A0D1I2L3"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"/></a>
+</p>
