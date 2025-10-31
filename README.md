@@ -12,15 +12,16 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/A0D1I2L3/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-0f1410?logo=leetcode&logoColor=00ff99&labelColor=0f1410" alt="LeetCode"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-0f3320?logo=leetcode&logoColor=00ff99&labelColor=0f3320&color=0f3320" alt="LeetCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/A0D1I2L3">
-    <img src="https://custom-icon-badges.demolab.com/badge/X-0f1410?logo=x&logoColor=00ff99&labelColor=0f1410" alt="X"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/X-0f3320?logo=x&logoColor=00ff99&labelColor=0f3320&color=0f3320" alt="X"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adil-h-666957290/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0f1410?logo=linkedin-white&logoColor=00ff99&labelColor=0f1410" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0f3320?logo=linkedin&logoColor=00ff99&labelColor=0f3320&color=0f3320" alt="LinkedIn"/>
   </a>
 </div>
+
 
 
 
