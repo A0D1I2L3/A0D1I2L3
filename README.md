@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/A0D1I2L3"><img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A0D1I2L3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/A0D1I2L3"><img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&custom_title=Top%20Languages" alt="Top Languages"/></a>
+  <a href="https://github.com/A0D1I2L3"><img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A0D1I2L3&layout=compact&langs_count=8&theme=gotham&custom_title=Top%20Languages&stats_format=bytes" alt="Top Languages"/></a>
 </div>
 
 <br/>
